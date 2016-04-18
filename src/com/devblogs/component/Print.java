@@ -1,6 +1,6 @@
-package com.component;
+package com.devblogs.component;
  
-import com.component.figure.Figure;
+import com.devblogs.component.figure.Figure;
  
 public class Print {
     private Figure figure;
