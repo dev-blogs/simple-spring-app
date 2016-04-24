@@ -1,2 +1,5 @@
-simple-spring-app
+#simple-spring-app
 =================
+Этот проект описан в посте http://dev-blogs.com/simple-spring-app/
+
+Для того чтобы собрать и запустить проект запустите из коммандной строки билд скрипт: ./build.sh
